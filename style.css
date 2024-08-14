@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+}
+.img-logo {
+    width: 20%;
+    height: auto;
+    margin-right: 10px;
+
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+    margin-bottom: 50px ;
+}
+
+.top-color{
+    background-color: #EBF5E1;
+}
+
+.mr{
+    margin-bottom: 40px;
+}
+
+.navbar-nav {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.color{
+    color: red;
+}
+
+.highlight{
+    color: #4CAF50;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+p {
+    color: gray;
+    margin: 4%;
+}
