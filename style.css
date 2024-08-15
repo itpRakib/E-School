@@ -1,5 +1,5 @@
 body {
-    margin: 0%;
+    margin-bottom: 0%;
 }
 
 .container {
@@ -98,14 +98,14 @@ p {
 
 .footer-icon {
     width: 8%;
-    margin-left: 5%;
+    margin: 2%;
 }
 
 .footer-inline {
     margin-bottom: 08%;
     display: inline-block;
     padding-bottom: 10px;
-    padding-right: 8px;
+    padding-right: 10px;
     font-size: 15px;
     color: rgb(114, 108, 108);
 }
@@ -123,4 +123,32 @@ p {
 .h6 {
     margin-left: 3%;
     line-height: 1.5;
+}
+
+.last-color {
+    background-color: #292525;
+    margin-bottom: -6%;
+}
+
+.footer-t {
+    color: #EBF5E1;
+    margin-bottom: 20px;
+    text-align: center;
+    display: inline-flex;
+    margin-top: 05%;
+    text-align: left;
+}
+
+footer {
+    color: #EBF5E1;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.p {
+    color: #EBF5E1;
+}
+
+.col{
+    text-align: left;
 }
