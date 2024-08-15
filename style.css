@@ -19,7 +19,7 @@ body {
     color: white;
     padding: 10px 20px;
     border: none;
-    border-radius: 60px;
+    border-radius: 50px;
     cursor: pointer;
     margin-bottom: 50px;
 }
@@ -87,7 +87,8 @@ p {
     background-color: white;
     text-align: center;
     border-radius: 10px;
-    padding-bottom: 10%;
+    padding-top: 10%;
+    padding-bottom: 15%;
 }
 
 .card {
