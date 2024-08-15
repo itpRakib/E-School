@@ -1,6 +1,12 @@
-body{
+body {
     margin: 0%;
 }
+
+.container {
+    margin-bottom: 6%;
+}
+
+
 .img-logo {
     width: 20%;
     height: auto;
@@ -15,14 +21,14 @@ body{
     border: none;
     border-radius: 60px;
     cursor: pointer;
-    margin-bottom: 50px ;
+    margin-bottom: 50px;
 }
 
-.top-color{
+.top-color {
     background-color: #EBF5E1;
 }
 
-.mr{
+.mr {
     margin-bottom: 40px;
 }
 
@@ -32,19 +38,89 @@ body{
     gap: 25px;
 }
 
-.color{
+.color {
     color: red;
 }
 
-.highlight{
+.highlight {
     color: #4CAF50;
 }
 
-h1{
+h1 {
     font-size: 50px;
     font-weight: 700;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
 }
+
 p {
     color: gray;
-    margin: 4%;
+    margin: 5%;
+}
+
+.card-img-top-first {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    margin-right: 40%;
+    margin-bottom: 05%;
+}
+
+.card-icon {
+    border: none;
+    background-color: #f0f4ed;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 10%;
+}
+
+.for-this {
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 10%;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-img-top {
+    width: 90%;
+    margin: 5%;
+}
+
+.footer-icon {
+    width: 8%;
+    margin-left: 5%;
+}
+
+.footer-inline {
+    margin-bottom: 08%;
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-right: 8px;
+    font-size: 15px;
+    color: rgb(114, 108, 108);
+}
+
+.man{
+    width: 120px;
+   margin-left: 20%;
+}
+
+.middle{
+    align-items: center;
+    display: flex;
+}
+
+.h6{
+    margin-left: 3%;
+    line-height: 1.5;
 }
