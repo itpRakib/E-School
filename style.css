@@ -55,9 +55,13 @@ h1 {
     margin-bottom: 50px;
 }
 
+h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+
 p {
-    color: gray;
-    margin: 5%;
+    color: rgb(99, 94, 94);
 }
 
 .card-img-top-first {
@@ -74,6 +78,7 @@ p {
     text-align: center;
     border-radius: 10px;
     padding-bottom: 10%;
+    padding-top: 10%;
 }
 
 .for-this {
